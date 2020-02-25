@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{D1CEDE89-FEDF-4DAD-9C2C-1403CBF5DC3A}|Default">
+  <MonoDevelop.Ide.ItemProperties.TippyTab.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TippyTab/MainTabPage.xaml">
+    <Files>
+      <File FileName="TippyTab/MainTabPage.xaml" Line="5" Column="32" />
+      <File FileName="TippyTab/MainTabPage.xaml.cs" />
+      <File FileName="TippyTab/NewsPage.xaml" />
+      <File FileName="TippyTab/NewsPage.xaml.cs" />
+      <File FileName="TippyTab/PhotosPage.xaml" />
+      <File FileName="TippyTab/PhotosPage.xaml.cs" />
+      <File FileName="TippyTab/ProfilePage.xaml" />
+      <File FileName="TippyTab/ProfilePage.xaml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TippyTab" expanded="True">
+            <Node name="TippyTab" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainTabPage.xaml" expanded="True" selected="True" />
+              <Node name="NewsPage.xaml" expanded="True" />
+              <Node name="PhotosPage.xaml" expanded="True" />
+              <Node name="ProfilePage.xaml" expanded="True" />
+            </Node>
+            <Node name="TippyTab.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TippyTab.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TippyTab.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/amandachan/Projects/TippyTab/TippyTab/pdim4r7w.mzv~" relfile="TippyTab/pdim4r7w.mzv~" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
