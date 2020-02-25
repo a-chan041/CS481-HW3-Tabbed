@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TippyTab.MyTabbedPage">
+    <!--Pages can be added as references or inline-->
+    <ContentPage IconImageSource="home.png">
+        <StackLayout>
+            <ScrollView>
+              <Grid>
+                <Grid.RowDefinitions>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Image Source="Banner.png" VerticalOptions="Start"></Image>
+                <Label Text="Step Out, Lead Everyday" Grid.Row="3" HorizontalOptions="Center" TextColor="Black" FontSize="Medium"></Label>
+                <Image Source="mission.png" Grid.Row="5"></Image>
+                <Image Source="vision.png" Grid.Row="6"></Image>
+                <Image Source="values.png" Grid.Row="7"></Image>
+              </Grid>
+           </ScrollView>
+        </StackLayout>
+    </ContentPage>
+
+</TabbedPage>

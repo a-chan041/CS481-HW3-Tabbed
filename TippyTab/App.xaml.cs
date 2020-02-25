@@ -14,7 +14,7 @@ namespace TippyTab
             InitializeComponent();
 
             DependencyService.Register<MockDataStore>();
-            MainPage = new MainTabPage();
+            MainPage = new MyTabbedPage();
         }
 
         protected override void OnStart()

@@ -2,9 +2,8 @@
 /Users/amandachan/Projects/TippyTab/TippyTab/bin/Debug/netstandard2.0/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/bin/Debug/netstandard2.0/ref/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/bin/Debug/netstandard2.0/TippyTab.pdb
-/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.csprojAssemblyReference.cache
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/MainTabPage.xaml.g.cs
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/NewsPage.xaml.g.cs
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
@@ -16,6 +15,7 @@
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/ref/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.pdb
-/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/NewsPage.xaml.g.cs
-/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/PhotosPage.xaml.g.cs
-/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/ProfilePage.xaml.g.cs
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.csprojAssemblyReference.cache
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/Testemonial.xaml.g.cs
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/Donate.xaml.g.cs
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/MyTabbedPage.xaml.g.cs
