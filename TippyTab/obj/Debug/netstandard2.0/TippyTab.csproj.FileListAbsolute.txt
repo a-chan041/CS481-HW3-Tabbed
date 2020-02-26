@@ -18,3 +18,4 @@
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/ref/TippyTab.dll
 /Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.pdb
+/Users/amandachan/Projects/TippyTab/TippyTab/obj/Debug/netstandard2.0/TippyTab.csprojAssemblyReference.cache

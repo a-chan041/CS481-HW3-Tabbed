@@ -2,13 +2,13 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TippyTab/NewsPage.xaml.cs">
     <Files>
       <File FileName="TippyTab/Donate.xaml" Line="19" Column="15" />
-      <File FileName="TippyTab/MyTabbedPage.xaml" Line="24" Column="121" />
-      <File FileName="TippyTab/MyTabbedPage.xaml.cs" Line="23" Column="10" />
-      <File FileName="TippyTab/Testemonial.xaml" Line="21" Column="1" />
-      <File FileName="TippyTab/Testemonial.xaml.cs" Line="18" Column="92" />
-      <File FileName="TippyTab/Donate.xaml.cs" Line="20" Column="10" />
-      <File FileName="TippyTab/NewsPage.xaml" Line="18" Column="76" />
-      <File FileName="TippyTab/NewsPage.xaml.cs" Line="21" Column="108" />
+      <File FileName="TippyTab/MyTabbedPage.xaml" />
+      <File FileName="TippyTab/MyTabbedPage.xaml.cs" />
+      <File FileName="TippyTab/Testemonial.xaml" />
+      <File FileName="TippyTab/Testemonial.xaml.cs" />
+      <File FileName="TippyTab/Donate.xaml.cs" />
+      <File FileName="TippyTab/NewsPage.xaml" />
+      <File FileName="TippyTab/NewsPage.xaml.cs" Line="19" Column="121" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -35,9 +35,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
