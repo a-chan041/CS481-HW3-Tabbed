@@ -6,12 +6,17 @@
         <Grid>
            <Grid.RowDefinitions>
                <RowDefinition Height="Auto"></RowDefinition>
+               <RowDefinition Height="Auto"></RowDefinition>
+               <RowDefinition Height="Auto"></RowDefinition>
            </Grid.RowDefinitions>
            <Grid.ColumnDefinitions>
-               <ColumnDefinition Width="Auto"/>
+             <ColumnDefinition Width="Auto"/>
+             <ColumnDefinition Width="Auto"/>
+             <ColumnDefinition Width="Auto"/>
            </Grid.ColumnDefinitions>
-           <Image Source="icon2.jpeg" WidthRequest="55" Grid.Row="0" Grid.Column="0"/>
-            </Grid>
+           <Image Source="icon2.jpeg" WidthRequest="55" Grid.Row="0" Grid.Column="0"></Image>
+           <Label Text="Mentor Announcements" TextColor="Black" Grid.Row="1" Grid.Column="1"></Label>
+            </Grid>  
       </ScrollView>
   </StackLayout>
 </ContentPage>

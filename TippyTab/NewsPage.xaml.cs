@@ -16,5 +16,10 @@ namespace TippyTab
         {
             InitializeComponent();
         }
+        protected override void OnDisappearing()
+        {
+            DisplayAlert("Before you go!", "If you would like to become a Mentor, visit our website in the Home tab", "OK");
+            base.OnDisappearing();
+        }
     }
 }

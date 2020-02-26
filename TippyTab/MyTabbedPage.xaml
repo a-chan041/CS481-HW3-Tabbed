@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TippyTab.MyTabbedPage">
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TippyTab.MyTabbedPage" BarBackgroundColor="DarkGreen">
     <!--Pages can be added as references or inline-->
     <ContentPage IconImageSource="home.png">
         <StackLayout>
@@ -14,12 +14,14 @@
                  <RowDefinition Height="Auto"></RowDefinition>
                  <RowDefinition Height="Auto"></RowDefinition>
                  <RowDefinition Height="Auto"></RowDefinition>
+                 <RowDefinition Height="Auto"></RowDefinition>
                 </Grid.RowDefinitions>
                 <Image Source="Banner.png" VerticalOptions="Start"></Image>
                 <Label Text="Step Out, Lead Everyday" Grid.Row="3" HorizontalOptions="Center" TextColor="Black" FontSize="Medium"></Label>
                 <Image Source="mission.png" Grid.Row="5"></Image>
                 <Image Source="vision.png" Grid.Row="6"></Image>
                 <Image Source="values.png" Grid.Row="7"></Image>
+                <Button BackgroundColor="White" TextColor="DarkGreen" Text="Visit our Website" Clicked="Web" Grid.Row="8"></Button>
               </Grid>
            </ScrollView>
         </StackLayout>

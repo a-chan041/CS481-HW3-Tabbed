@@ -11,8 +11,10 @@
                     <RowDefinition Height="Auto"></RowDefinition>
                     <RowDefinition Height="Auto"></RowDefinition>
                 </Grid.RowDefinitions>
-                <Image Source="testemonial1.png"></Image>
+                <Label Text="Here's what people are saying about us!" TextColor="Black" FontSize="Medium"  Grid.Row="0" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                <Image Source="testemonial1.png" Grid.Row="1"></Image>
                 <Image Source="test2.png" Grid.Row="3"></Image>
+                <Image Source="test3.png" Grid.Row="6"></Image>
             </Grid>
         </ScrollView>
     </StackLayout>

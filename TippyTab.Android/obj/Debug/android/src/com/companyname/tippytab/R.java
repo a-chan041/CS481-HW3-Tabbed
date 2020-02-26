@@ -4569,13 +4569,14 @@ public final class R {
     public static final int photos=0x7f07007c;
     public static final int profile=0x7f07007d;
     public static final int test2=0x7f07007e;
-    public static final int testemonial1=0x7f07007f;
-    public static final int tooltip_frame_dark=0x7f070080;
-    public static final int tooltip_frame_light=0x7f070081;
-    public static final int ty=0x7f070082;
-    public static final int values=0x7f070083;
-    public static final int vision=0x7f070084;
-    public static final int xamarin_logo=0x7f070085;
+    public static final int test3=0x7f07007f;
+    public static final int testemonial1=0x7f070080;
+    public static final int tooltip_frame_dark=0x7f070081;
+    public static final int tooltip_frame_light=0x7f070082;
+    public static final int ty=0x7f070083;
+    public static final int values=0x7f070084;
+    public static final int vision=0x7f070085;
+    public static final int xamarin_logo=0x7f070086;
   }
   public static final class id {
     public static final int ALT=0x7f080000;
