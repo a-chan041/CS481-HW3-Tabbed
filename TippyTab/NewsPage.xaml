@@ -8,6 +8,9 @@
                <RowDefinition Height="Auto"></RowDefinition>
                <RowDefinition Height="Auto"></RowDefinition>
                <RowDefinition Height="Auto"></RowDefinition>
+               <RowDefinition Height="Auto"></RowDefinition>
+               <RowDefinition Height="Auto"></RowDefinition>
+               <RowDefinition Height="Auto"></RowDefinition>
            </Grid.RowDefinitions>
            <Grid.ColumnDefinitions>
              <ColumnDefinition Width="Auto"/>
@@ -16,7 +19,40 @@
            </Grid.ColumnDefinitions>
            <Image Source="icon2.jpeg" WidthRequest="55" Grid.Row="0" Grid.Column="0"></Image>
            <Label Text="Mentor Announcements" TextColor="Black" Grid.Row="1" Grid.Column="1"></Label>
-            </Grid>  
+            <Label Grid.Row="2" Grid.ColumnSpan="3" TextColor="Black">
+                <Label.Text>
+                    02/21/2020
+      Mentor Dress Code
+      * SOLE Effects T-Shirt
+      * Professional Pants: Jeans, Black Leggings (non-see through), Trousers
+                </Label.Text>
+            </Label>
+            <Label Grid.Row="3" Grid.ColumnSpan="3" TextColor="Black">
+                <Label.Text>
+                    02/18/2020
+      REMINDER: No SOLE Effects Adventure this Friday (02/21)
+                    </Label.Text>
+                </Label>
+            <Label Grid.Row="4" Grid.ColumnSpan="3" TextColor="Black">
+                <Label.Text>
+                    01/25/2020
+      REMINDER: All Day Training (01/31)
+      * Lead Guide showtime: 9:00am
+      * Guide showtime: 9:15am
+      * Lunch will be provided
+                </Label.Text>
+           </Label>
+            <Label Grid.Row="5" Grid.ColumnSpan="3" TextColor="Black">
+                <Label.Text>
+                    01/24/2020
+      REMINDER: First Day of RBHS
+      * Lead Guide showtime: 8:30 am
+      * Guide showtime: 8:45am
+      * Bring a lunch and a smile
+      * Snacks will be provided
+                </Label.Text>
+           </Label>
+        </Grid>  
       </ScrollView>
   </StackLayout>
 </ContentPage>

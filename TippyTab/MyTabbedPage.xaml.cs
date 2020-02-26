@@ -17,20 +17,20 @@ namespace TippyTab
         {
             InitializeComponent();
       
-            Children.Add(new NewsPage());
-            Children.Add(new Testemonial());
-            Children.Add(new Donate());
+            Children.Add(new NewsPage()); //adds the other tabs as children to the main tabbed page
+            Children.Add(new Testemonial()); //adds the other tabs as children to the main tabbed page
+            Children.Add(new Donate()); //adds the other tabs as children to the main tabbed page
         }
 
-        private void Web (Object sender, EventArgs e)
+        private void Web (Object sender, EventArgs e) //this function takes users to the link; using a button
         {
             Browser.OpenAsync("https://soleeffects.org/switch-adventure", BrowserLaunchMode.SystemPreferred);
         }
 
-        protected override void OnAppearing()
+        protected override void OnAppearing() //on appearing call displays alert message as users navigate onto the page
         {
             base.OnAppearing();
-            DisplayAlert("Hey There", "Welcome to SOLE Effects HQ, we want to thank you for visiting us.", "OK");
+            DisplayAlert("Hey there", "Welcome to SOLE Effects HQ, we want to thank you for visiting us.", "OK");
 
         }
     }
