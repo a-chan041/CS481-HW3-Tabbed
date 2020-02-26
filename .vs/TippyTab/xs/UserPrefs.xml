@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{D1CEDE89-FEDF-4DAD-9C2C-1403CBF5DC3A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TippyTab/NewsPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TippyTab/MyTabbedPage.xaml.cs">
     <Files>
       <File FileName="TippyTab/Donate.xaml" Line="19" Column="15" />
       <File FileName="TippyTab/MyTabbedPage.xaml" />
-      <File FileName="TippyTab/MyTabbedPage.xaml.cs" />
+      <File FileName="TippyTab/MyTabbedPage.xaml.cs" Line="22" Column="98" />
       <File FileName="TippyTab/Testemonial.xaml" />
       <File FileName="TippyTab/Testemonial.xaml.cs" />
       <File FileName="TippyTab/Donate.xaml.cs" />
@@ -17,10 +17,10 @@
             <Node name="TippyTab" expanded="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="Donate.xaml" expanded="True" />
-              <Node name="MyTabbedPage.xaml" expanded="True" />
-              <Node name="NewsPage.xaml" expanded="True">
-                <Node name="NewsPage.xaml.cs" selected="True" />
+              <Node name="MyTabbedPage.xaml" expanded="True">
+                <Node name="MyTabbedPage.xaml.cs" selected="True" />
               </Node>
+              <Node name="NewsPage.xaml" expanded="True" />
               <Node name="Testemonial.xaml" expanded="True" />
             </Node>
             <Node name="TippyTab.Android" expanded="True">
